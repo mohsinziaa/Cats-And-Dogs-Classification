@@ -1,5 +1,5 @@
 # Cats-And-Dogs-Classification
 Cats And Dogs Classification using Neural Networks.
 
-<br>
+<hr>
 Uploading the data set after deadline 🤭
